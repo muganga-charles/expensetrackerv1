@@ -1,2 +1,2 @@
 # expensetrackerv1
-a simple javascript and html expenses tracker
+a simple javascript and html expenses tracker...
