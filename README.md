@@ -1,2 +1,2 @@
 # expensetrackerv1
-a simple javascript and html expenses tracker pro.
+a simple javascript and html expenses tracker program.
